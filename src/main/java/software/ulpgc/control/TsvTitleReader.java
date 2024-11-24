@@ -1,4 +1,6 @@
-package software.ulpgc;
+package software.ulpgc.control;
+
+import software.ulpgc.model.Title;
 
 import java.io.BufferedReader;
 import java.io.File;
